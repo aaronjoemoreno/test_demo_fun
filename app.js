@@ -1,4 +1,5 @@
 const firstName = 'Hello'
-const lastName = 'World!'
+const middleName = 'Middle Name'
+const lastName = 'World'
 
-console.log(firstName + lastName)
+console.log(firstName + middleName + lastName)
